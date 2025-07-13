@@ -21,16 +21,12 @@ This Power BI project visualizes and analyzes mobile phone sales data across var
 - **Fields:** Transaction ID, Date, Day Name, Brand, Units Sold, Price Per Unit, Customer Details, City, Payment Method, Customer Ratings, Mobile Model.
 
 ## How to Use
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/mobile-sales-dashboard.git
-   ```
-2. **Open Power BI Desktop**
-3. **Load the Dataset**
+1. **Open Power BI Desktop**
+2. **Load the Dataset**
    - Open `Mobile-Sales-Data.xlsx` in Power BI.
-4. **Import the Power BI Report**
+3. **Import the Power BI Report**
    - Open the provided `.pbix` file or create a new report and connect to the dataset.
-5. **Interact with the Dashboard**
+4. **Interact with the Dashboard**
    - Use slicers and filters to explore different segments and time periods.
 
 ## Key Insights
